@@ -1,3 +1,3 @@
 # frepo
 my first repo
-author - manish kumar 
+author - manish kumar iot
